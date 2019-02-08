@@ -1,0 +1,24 @@
+{
+  "name": "angular-sticky",
+  "version": "1.0.0",
+  "description": "Angular Sticky is an AngularJS directive that gives you the ability to keep any element on your page visible.",
+  "main": "angular-sticky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hefler@github.com/hefler/angular-sticky.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "sticky"
+  ],
+  "author": "Jonathan Neal",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/hefler/angular-sticky/issues"
+  },
+  "homepage": "https://github.com/hefler/angular-sticky#readme"
+}
